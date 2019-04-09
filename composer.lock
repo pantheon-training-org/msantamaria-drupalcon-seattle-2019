@@ -4911,6 +4911,11 @@
         {
             "name": "webflo/drupal-core-strict",
             "version": "8.0.0-beta15",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/webflo/drupal-core-strict.git",
+                "reference": "1eb044b722ebe44bc6af86a03888415d7f31c057"
+            },
             "type": "metapackage",
             "notification-url": "https://packagist.org/downloads/",
             "license": [
